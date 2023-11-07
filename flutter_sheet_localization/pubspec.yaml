@@ -9,4 +9,5 @@ environment:
 dependencies:
   intl: ^0.18.1
 
-  template_string: ^0.6.0
+  template_parser: ^0.0.2
+  
