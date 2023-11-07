@@ -8,13 +8,13 @@ environment:
 
 dependencies:
   flutter:
-    sdk: flutter 
-  http: ^0.13.1
+    sdk: flutter
+  http: ^1.1.0
   meta: ^1.9.1
   csv: ^5.0.0
   recase: ^4.0.0
   code_builder: ^4.0.0
-  dart_style: ^2.0.0 
+  dart_style: ^2.0.0
   source_gen: ^1.0.0
   flutter_sheet_localization: ^5.1.1
   build: ^2.0.0
